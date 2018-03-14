@@ -1,0 +1,16 @@
+
+/* Cardについて */
+.cardBase {
+  max-width: 350px;
+  margin: 30px auto;
+  height: 151px;
+  background-color: red;
+  /* transition: 1s; */
+}
+
+.cardOutside {
+  display: inline-block;
+  /* width: 80%; */
+  margin: 5px;
+  /* height: 190px; */
+}
