@@ -57,7 +57,7 @@ const Items = [
   },
   {
     image: ensou,
-    title:'Brush',
+    title:'Ensou (円相)',
     description:'The concept of Zen',
     url: 'https://egusahiroaki.github.io/ensou01/',
     tags: [
