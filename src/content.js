@@ -5,6 +5,8 @@ import mtg from './images/markdown_table_generator.png';
 import brush from './images/brush.png';
 import quick from './images/quick_sort.png';
 import bubble from './images/bubble_sort.png';
+import ensou from './images/ensou.png';
+
 import pb from './images/pb.png';
 
 const Items = [
@@ -49,6 +51,15 @@ const Items = [
     title:'Brush',
     description:'You can write Anything.',
     url: 'https://egusahiroaki.github.io/brush01/',
+    tags: [
+      {title: 'Canvas', bkColor:'#ff8686', color:'white'}
+    ]
+  },
+  {
+    image: ensou,
+    title:'Brush',
+    description:'The concept of Zen',
+    url: 'https://egusahiroaki.github.io/ensou01/',
     tags: [
       {title: 'Canvas', bkColor:'#ff8686', color:'white'}
     ]
